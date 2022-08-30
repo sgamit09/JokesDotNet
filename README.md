@@ -1,4 +1,4 @@
-# JokesDotNet
+# JokesDotNet 😂💻
 
 JokesDotNet is a .NET web application where a user can register an account, search for programming jokes, and create, edit, and delete Jokes.  
 
